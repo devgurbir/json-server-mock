@@ -5,5 +5,17 @@
       "title": "First post!",
       "status" : false
     }
+  ],
+
+  "users": [
+    {
+      "id": "0",
+      "name": "Gurbir",
+      "email": "seogurbir@gmail.com",
+      "password": "password",
+      "username": "seogurbir",
+      "mobile": "6280263283",
+      "description": "From the concrete.."
+    }
   ]
 }
